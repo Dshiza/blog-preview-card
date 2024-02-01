@@ -89,7 +89,7 @@ html{
   font-size: var(--fs-regular);
 }
 h1 {
-  font-size: var(--fs-bigger);
+  font-size: 1.4rem;
   padding: 10px 0 10px 0;
 }
 h1:hover {
